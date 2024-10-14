@@ -19,5 +19,13 @@ Dieses Banking-System ist zwar etwas komplexer, jedoch können wir durch unsere 
 
 Das Projekt wird bis Ende des Schuljahres fertig gestellt.
 
+## Projektorganisation
 
+### Rollen:
 
+ - Projektleiter: Janosch Walter
+ - Projektmitarbeiter: Noah Kathrein und Mark Gritsch
+
+### Form der Zusammenarbeit
+
+Wir haben die Matrixorganisation gewählt da wir immer an zwei Dingen gleichzeitig arbeiten. Zu einem die Schulen im generellen, der wir viel Zeit widmen. Zum anderen unser Banking-System, bei dem wir auf Qualität und auf die Fertigstellung achten.
