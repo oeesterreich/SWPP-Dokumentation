@@ -43,4 +43,4 @@ Ich habe einen Projektstrukturplan erstellt, der die Arbeit in die drei Hauptebe
 Geschrieben von Noah:
 
 Ich habe einen detaillierten Projektablaufplan erstellt, der die Arbeit der drei Hauptebenen in Form eines Gantt-Diagramms visualisiert. Der Plan ist in die drei Phasen Vorbereitung, Durchführung und Abschluss unterteilt, wie zuvor erläutert. Jede Hauptebene ist dabei klar strukturiert und in die entsprechenden Unterebenen gegliedert, um den Projektfortschritt übersichtlich darzustellen.
-
+ 
