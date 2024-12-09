@@ -29,3 +29,11 @@ Das Projekt wird bis Ende des Schuljahres fertig gestellt.
 ### Form der Zusammenarbeit
 
 Wir haben die Matrixorganisation gewählt da wir immer an zwei Dingen gleichzeitig arbeiten. Zu einem die Schulen im generellen, der wir viel Zeit widmen. Zum anderen unser Banking-System, bei dem wir auf Qualität und auf die Fertigstellung achten.
+
+# Erstellung eines PSP
+
+Geschrieben von Janosch:
+
+Ich habe einen Projektstrukturplan erstellt, der die Arbeit in die drei Hauptebenen Vorbereitung, Durchführung und Abschluss gliedert. Jede dieser Ebenen enthält Unterebenen, die die spezifischen Aufgaben und Bereiche detailliert beschreiben, die wir durchführen müssen, um unser Ziel zu erreichen. Zusätzlich habe ich eine grobe Zeiteinteilung hinzugefügt, um die einzelnen Schritte zeitlich zu planen und die Umsetzung effizient zu gestalten.
+
+![PSP Bankingsystem](PSP%20Banking%20system.png)
