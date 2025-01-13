@@ -43,3 +43,23 @@ Geschrieben von Noah:
 ![img_2.png](img_2.png)
 
 Ich habe einen detaillierten Projektablaufplan erstellt, der die Arbeit der drei Hauptebenen in Form eines Gantt-Diagramms visualisiert. Der Plan ist in die drei Phasen Vorbereitung, Durchführung und Abschluss unterteilt, wie zuvor erläutert. Jede Hauptebene ist dabei klar strukturiert und in die entsprechenden Unterebenen gegliedert, um den Projektfortschritt übersichtlich darzustellen.
+
+# Projektumfeldanalyse
+
+Gemacht von Janosch:
+
+
+Eine Projektumfeldanalyse untersucht interne und externe Einflüsse auf ein Projekt, identifiziert Stakeholder, Chancen und Risiken und klärt Rahmenbedingungen. Ziel ist es, das Projekt optimal zu planen und mögliche Herausforderungen frühzeitig zu adressieren.
+
+### Schriftliche Dahrstellung
+
+![img 3.png](img%203.png)
+
+### Grafische Darstllung
+
+![img 4.png](img%204.png)
+
+
+
+
+
