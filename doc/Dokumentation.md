@@ -59,6 +59,15 @@ Eine Projektumfeldanalyse untersucht interne und externe Einflüsse auf ein Proj
 
 ![img 4.png](img%204.png)
 
+### RisikoListe
+Gemacht von Noah
+![img_3.png](img_3.png)
+![img_4.png](img_4.png)
+
+
+
+
+
 
 
 
